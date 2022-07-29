@@ -4,7 +4,6 @@ Laporan keuangan, Pencatatan pengeluaran dan pemasukan dengan Bot Telegram yang 
 
 # Screenshot Result
 
-Screenshot Bot Telegram
 ![Bot Tele](https://user-images.githubusercontent.com/109408909/181763001-928aebef-9ab8-4a26-a3dd-4457c5d872a3.png)
 
 Screenshot Google Sheet
