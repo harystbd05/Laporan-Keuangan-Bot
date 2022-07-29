@@ -1,6 +1,11 @@
 # Laporan-Keuangan-Bot
 Laporan keuangan, Pencatatan pengeluaran dan pemasukan dengan Bot Telegram yang otomatis terintegrasi dengan Google Spreadsheet
 
+
+#Screenshot Result
+![Bot Tele](https://user-images.githubusercontent.com/109408909/181763001-928aebef-9ab8-4a26-a3dd-4457c5d872a3.png)
+![SS Google Sheets](https://user-images.githubusercontent.com/109408909/181763008-8f8883a1-de42-4242-afe9-f328b80a58e9.png)
+
 # Mulai
 
 ## Buat Bot telegram
