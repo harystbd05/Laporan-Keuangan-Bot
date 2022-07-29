@@ -46,5 +46,5 @@ Khusus Pemasukan
 
 ## *Note:
 Untuk mendapatkan Chat ID, buka telegram, 
-search @getYourID_bot atau https://t.me/getyourid_bot atau https://t.me/get_id_bot
+search https://t.me/getyourid_bot atau https://t.me/get_id_bot
 
