@@ -36,7 +36,7 @@ Khusus Pemasukan
 6. ID Pelapor
 7. Nama Pelapor
 
-## Buat App Script 
+## Buat Goole App Script 
 1. Buka index.gs
 2. Sesuaikan Token, Spreadsheet URL, Nama sheet, dan Pengguna bot (Chat ID*)
 3. Deploy sebagai Web app, dan simpan urlnya
